@@ -1,16 +1,29 @@
-## Hi there 👋
+# I'm Abdulrahman Muhammad " A Great Engineer Under Construction, Insha'Allah"✨
 
-<!--
-**AbdAl-RahmanMuhammad/AbdAl-RahmanMuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1211" height="684" alt="lmed 2" src="https://github.com/user-attachments/assets/646c6740-592d-486f-9524-f6afe2a0349a" />
 
-Here are some ideas to get you started:
+##  About Me
+### I am an Engineer who is Specialized in Power Electronics and Control Algorithms, and Wants to be a lecturer in the future Insha'Allah. 
+<img align="right" width="404" height="282" alt="bqw" src="https://github.com/user-attachments/assets/f0e18a59-1bde-4740-b509-59168954032e" />
+I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+<br clear="right"/>
+
+## 🔧 My Tech Stack
+
+
+
+
+
+## 🔗 Connect with Me
+
+<div align="center">
+  
+</div>
