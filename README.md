@@ -1,16 +1,25 @@
  
-# I'm Abdulrahman Muhammad " A Great Scientist Under Construction, Insha'Allah"✨
+<div align="center">
 
+# I'm Abdulrahman Muhammad 
+ " A Great Scientist Under Construction, Insha'Allah"✨
+
+</div>
 <img width="1211" height="684" alt="lmed 2" src="https://github.com/user-attachments/assets/646c6740-592d-486f-9524-f6afe2a0349a" />
 
 ##  About Me
 
-<img align="right" width="404" height="282" alt="bqw" src="https://github.com/user-attachments/assets/f0e18a59-1bde-4740-b509-59168954032e" />
-
-### I am an Engineer Who is Specialized in Power Electronics and Control Algorithms, and Wants To Be A Lecturer in The Future Insha'Allah.
- To Achieve The __Very First Line__, My Current Focus  is  Building a **Rigorous Base In Mathematics and Computer Science** as I Believe They Are The Gateway to Fully Understand Most Of The Scientific Topics Such as DSP, State Estimation, Magnetics, Advanced Control Algorithms, and a lot more. Then, Apply it in A Real World Applications
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>I am an Engineer Who is Specialized in Power Electronics and Control Algorithms, and Wants To Be A Lecturer in The Future Insha'Allah.</h3>
+      <p>To Achieve The <strong>Very First Line</strong>, My Current Focus is Building a <strong>Rigorous Base In Mathematics and Computer Science</strong> as I Believe They Are The Gateway to Fully Understand Most Of Scientific Topics Such as DSP, State Estimation, Magnetics, Advanced Control Algorithms, and a lot more. Then, Apply it in A Real World Applications.</p>
+    </td>
+    <td valign="center" width="40%" align="center">
+      <img width="404" height="282" alt="bqw" src="https://github.com/user-attachments/assets/f0e18a59-1bde-4740-b509-59168954032e" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -26,12 +35,14 @@
 *   Authored and delivered the MBD Bootcamp Series to teach rapid prototyping and code generation
 *   Created over 40 tutorials on power electronics and control systems
 *   Delivered technical presentations on inverter design to international students
+*   <img width="1440" height="808" alt="vlcsnap-2026-08-15-23h53m13s448" src="https://github.com/user-attachments/assets/590f276a-131d-40fa-9dca-146eca3d0210" />
+
 
 
 ### 📖 Project Areas
 *   **Model-Based Design**: Developing open-loop control algorithms and deploying them to MCUs.
 *   **Power Electronics**: Designing and testing 3-phase inverters, DC-DC converters, and gate drive circuits.
-*   **Educational Content**: Documenting the learning process through technical tutorials on MBD and code generation.
+*   **Educational Content**: Documenting the learning process through technical tutorials on MBD , Power Electronics, and Magnetics.
 *   **Hardware Design**: Creating 4-layer PCBs, data acquisition boards, and power circuits.
 
 ---
@@ -52,16 +63,15 @@ Validation             │ MIL, PIL, and LAB testing
 ```text
 Control Algorithms     │ FOC, SVM, SPWM, V/f control, PID Tuning
 Microcontrollers       │ TI C2000 MCUs
-Software               │ Embedded C, Python, Git, pytest, Cmd
-Communications         │ UART
+Software               │ Embedded C, Python, Git, SW Testing, Bash
 ```
 
 ### Hardware & Power Electronics
 ```text
 PCB Design             │ KiCad, Altium Designer, EMI/EMC guidelines, Library management
-Simulation             │ LT-Spice, Simulink, Saturn,  
-Power Electronics      │ Inverters, Buck/Boost converters, Flyback transformers
-Testing Tools          │ Multimeters, Oscilloscopes, DAQ Boards
+Simulation             │ LT-Spice, Simulink 
+Power Electronics      │ Inverters, Buck/Boost, Pushpull, Flyback converters, Magnetics design, Voltage Mode Control
+Lab Tools              │ Multimeters, Oscilloscopes, Signal Generator
 ```
 ## 🌐 Connect & Collaborate
 
