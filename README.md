@@ -21,14 +21,14 @@
 *   **Bachelor of Electrical Engineering** (Graduated July 2023) - Faculty of Engineering, Ain Shams University
 *   **Graduation Project**: Single-phase bridge inverter design (Grade: A+)
 
-### **📖 Academic Contributions**
+### 📖 Academic Contributions
 *   **[Abd Al-Rahman Muhammad YouTube Channel](https://www.youtube.com/@AbdAl-Rahman.Muhammad)** - Technical tutorials for engineering
 *   Authored and delivered the MBD Bootcamp Series to teach rapid prototyping and code generation
 *   Created over 40 tutorials on power electronics and control systems
 *   Delivered technical presentations on inverter design to international students
 
 
-### **🔥Project Areas**
+### 📖 Project Areas
 *   **Model-Based Design**: Developing open-loop control algorithms and deploying them to MCUs.
 *   **Power Electronics**: Designing and testing 3-phase inverters, DC-DC converters, and gate drive circuits.
 *   **Educational Content**: Documenting the learning process through technical tutorials on MBD and code generation.
@@ -45,10 +45,10 @@
 Core Tools             │ MATLAB, Simulink, Stateflow, Simscape
 Code Generation        │ Embedded Coder, C-function customization
 Validation             │ MIL, PIL, and LAB testing
-## 🛠️ Technical Skills & Tools
+```
 
 
-### ** Control & Embedded Systems**
+### Control & Embedded Systems
 ```text
 Control Algorithms     │ FOC, SVM, SPWM, V/f control, PID Tuning
 Microcontrollers       │ TI C2000 MCUs
