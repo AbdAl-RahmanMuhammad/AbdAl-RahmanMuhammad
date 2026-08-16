@@ -31,21 +31,34 @@
 *   **Graduation Project**: Single-phase bridge inverter design (Grade: A+)
 
 ### 📖 Academic Contributions
+
+<img align="left" width="50%" alt="vlcsnap-2026-08-15-23h53m13s448" src="https://github.com/user-attachments/assets/590f276a-131d-40fa-9dca-146eca3d0210" />
+
 *   **[Abd Al-Rahman Muhammad YouTube Channel](https://www.youtube.com/@AbdAl-Rahman.Muhammad)** - Technical tutorials for engineering
 *   Authored and delivered the MBD Bootcamp Series to teach rapid prototyping and code generation
+    
 *   Created over 40 tutorials on power electronics and control systems
+  
 *   Delivered technical presentations on inverter design to international students
-*   <img width="1440" height="808" alt="vlcsnap-2026-08-15-23h53m13s448" src="https://github.com/user-attachments/assets/590f276a-131d-40fa-9dca-146eca3d0210" />
+   <br clear="left"/>
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <h3>📖 Project Areas</h3>
+      <ul>
+        <li><strong>Model-Based Design</strong>: Developing open-loop control algorithms and deploying them to MCUs.</li>
+        <li><strong>Power Electronics</strong>: Designing and testing 3-phase inverters, DC-DC converters, and gate drive circuits.</li>
+        <li><strong>Educational Content</strong>: Documenting the learning process through technical tutorials on MBD, Power Electronics, and Magnetics.</li>
+        <li><strong>Hardware Design</strong>: Creating 4-layer PCBs, data acquisition boards, and power circuits.</li>
+      </ul>
+    </td>
+    <td valign="top" width="35%" align="center">
+      <img width="100%" alt="Project Areas" src="https://github.com/user-attachments/assets/6aefeea4-0c5b-4ca4-bb72-e7b6f8102653" />
+    </td>
+  </tr>
+</table>
 
-
-
-### 📖 Project Areas
-*   **Model-Based Design**: Developing open-loop control algorithms and deploying them to MCUs.
-*   **Power Electronics**: Designing and testing 3-phase inverters, DC-DC converters, and gate drive circuits.
-*   **Educational Content**: Documenting the learning process through technical tutorials on MBD , Power Electronics, and Magnetics.
-*   **Hardware Design**: Creating 4-layer PCBs, data acquisition boards, and power circuits.
-
----
+<hr/>
 
 
 
