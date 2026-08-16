@@ -26,7 +26,6 @@
 *   Authored and delivered the MBD Bootcamp Series to teach rapid prototyping and code generation
 *   Created over 40 tutorials on power electronics and control systems
 *   Delivered technical presentations on inverter design to international students
-<img align="right" width="480" height="270" alt="Space Stars GIF by SwitchMedia" src="https://github.com/user-attachments/assets/7357befb-65a5-45bf-a073-f0491e4d62cd" />
 
 
 ### **🔥Project Areas**
